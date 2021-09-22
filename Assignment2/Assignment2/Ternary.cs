@@ -6,7 +6,7 @@ namespace Assignment2
 {
     class Ternary
     {
-        static void main()
+        static void Main()
         {
             Console.WriteLine("enter the number");
             int Number = Convert.ToInt32(Console.ReadLine());
